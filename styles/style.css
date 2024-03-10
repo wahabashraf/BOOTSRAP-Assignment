@@ -1,0 +1,7 @@
+#br-word{
+    background-color: rgba(0, 0, 0, .75);
+}
+
+#cardcolor{
+    filter: grayscale(75%);
+}
